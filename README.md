@@ -1,1 +1,7 @@
-<img src="https://ibb.co/8L2BML5q">
+# Merge Among Us
+
+Игра жанра **merge objects** по сеттингу Among Us для платформы **яндекс игры**
+
+---
+
+<img src="https://github.com/Eipix/AmongUsMergeObjects/blob/main/docs/orig.png">
