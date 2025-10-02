@@ -1,8 +1,8 @@
 # Merge Among Us
 
-Игра жанра **merge objects** по сеттингу Among Us для платформы **яндекс игры**
+Игра жанра **merge objects** по сеттингу Among Us для платформы яндекс игры.
 
-Графику делал [E.Deliberate](https://www.artstation.com/e_deliberate)
+Графику делал - [E.Deliberate](https://www.artstation.com/e_deliberate)
 
 ---
 
